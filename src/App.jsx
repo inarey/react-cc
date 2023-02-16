@@ -7,7 +7,7 @@ function App() {
   const showEmployee = true
 
   return (
-    <div className="bg-pink-500">
+    <div className="bg-teal-500">
       {showEmployee ? (
         <>
           <input type="text" onChange={(e) => {
